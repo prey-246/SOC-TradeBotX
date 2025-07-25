@@ -5,6 +5,7 @@
 **Notion site:** https://www.notion.so/1f91ee7b5147808e9985c784df6d4998?v=1f91ee7b514781aeb475000c6c2ca794
 
 ## Repository Structure
+```
 SOC-TradeBotX/
 │
 ├── Week-1,2/
@@ -14,6 +15,8 @@ SOC-TradeBotX/
 ├── Week-4,5/
 │
 └── README.md
+```
+
 
 ## Assignments Overview
 - **Week-1,2/**: Python basics, intro to trading, exploring trading strategies.
